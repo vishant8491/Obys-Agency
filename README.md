@@ -21,7 +21,8 @@ A visually stunning, animation-rich website inspired by the original Obys Agency
 ## 🖼️ Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](C:\Users\vishant\Pictures\Screenshots\Screenshot 2025-04-14 221107.png)
+![Screenshot 2025-04-14 221107](https://github.com/user-attachments/assets/24c81503-0c81-4297-a3c4-8224237eb3e8)
+
 
 ### 📱 Mobile View
 ![Mobile Screenshot](https://user-images.githubusercontent.com/your-image-id/obys-mobile.png)
