@@ -26,8 +26,10 @@ A visually stunning, animation-rich website inspired by the original Obys Agency
 
 
 
+
 2
 ![Screenshot 2025-04-14 222914](https://github.com/user-attachments/assets/504f4aca-fa47-4f62-873c-62bf849111d0)
+
 
 
 
@@ -36,13 +38,16 @@ A visually stunning, animation-rich website inspired by the original Obys Agency
 
 
 
+
 4
 ![Screenshot 2025-04-14 223859](https://github.com/user-attachments/assets/09c33ec4-475a-4d84-8caa-1956adb89f05)
 
 
 
+
 5
 ![Screenshot 2025-04-14 224253](https://github.com/user-attachments/assets/f87f42b1-12ba-4c79-8f00-b4caf96ca7ba)
+
 
 
 
@@ -52,8 +57,10 @@ A visually stunning, animation-rich website inspired by the original Obys Agency
 
 
 
+
 7
 ![Screenshot 2025-04-14 224505](https://github.com/user-attachments/assets/8927b0ec-007c-4606-b7a0-03e2943fa83f)
+
 
 
 
